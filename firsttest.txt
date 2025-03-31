@@ -5,4 +5,8 @@ This is the Tutorail of Learning Branches. Added a New Branch
 exp1 which contains all main Values
 
 
-Making Changes to the Main Branch for the Commits Learning - Pull an Merge Request.
+
+I have created a new Brach with Exp2 -- To Verify the Pull Request and Merge from Exp2
+
+This is the changes I Made to the Main Branch.. Conflict Resolved. Making Changes to the Main Branch for the Commits Learning - Pull an Merge Request.
+
